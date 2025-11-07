@@ -1,3 +1,4 @@
+Nos 11 règles Git
 1. Toujours tirer (git pull) avant de pousser.
 2. Faire des commits clairs et atomiques.
 3. Travailler sur une branche par fonctionnalité.
